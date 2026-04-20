@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aviel Bicha 👋
+### Network Engineer | Unit 8200 Veteran | CCNA Certified | CCNP Candidate
 
-<!--
-**avielbichawork/avielbichawork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Currently pursuing **CCNP ENARSI** to master advanced enterprise routing and services.
+- 🛠️ Specialized in **Cisco infrastructure**, L2/L3 architectures, and VLAN management.
+- 📡 Hands-on experience with **OSPF, STP, NAT, and ACLs**.
+- ⚡ Fast learner with a "can-do" attitude, currently expanding my knowledge into Network Security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Networking:** Cisco IOS, Routing & Switching, IPv4/IPv6.
+- **Protocols:** OSPF, STP, EtherChannel, VLANs, VTP.
+- **Monitoring & Labs:** Wireshark, EVE-NG, Packet Tracer.
+- **Systems:** Linux (Basic), Windows Server.
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=avielbichawork&show_icons=true&theme=radical)
+
+---
+
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/aviel-bicha/)
