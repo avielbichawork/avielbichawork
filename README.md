@@ -1,6 +1,6 @@
 # Hi, I'm Aviel Bicha
 
-### Network Engineer | Unit 8200 Veteran | CCNA Certified | CCNP Candidate
+### Network & Security Specialist | Unit 8200 Veteran | CCNA Certified | CCNP Candidate
 
 * Currently pursuing CCNP ENARSI to master advanced enterprise routing and services (Expected Completion: June 2026).
 * Specialized in Cisco infrastructure, L2/L3 architectures, and VLAN management.
