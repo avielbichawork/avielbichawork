@@ -20,7 +20,7 @@
 ---
 
 ### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=avielbichwork&show_icons=true&theme=radical)
+![Aviel's GitHub stats](https://github-readme-stats.vercel.app/api?username=avielbichawork&show_icons=true&theme=radical)
 
 ---
 
