@@ -2,10 +2,10 @@
 
 ### Network & Security Specialist | Unit 8200 Veteran | CCNA Certified | CCNP Candidate
 
-* Currently pursuing CCNP ENARSI to master advanced enterprise routing and services (Expected Completion: June 2026).
-* Specialized in Cisco infrastructure, L2/L3 architectures, and VLAN management.
-* Expanding expertise in Network Security via self-study of Fortinet (FCP) and Juniper (Junos).
-* Focused on multi-vendor interoperability, operational uptime, and hands-on laboratory implementation.
+* Advancing networking expertise through CCNP Enterprise studies.
+* Specialized in Cisco infrastructure, L2/L3 architectures, and VLAN management. 
+* Expanding expertise in Fortinet Security and Juniper Networking technologies through hands-on lab environments.  
+* Focused on multi-vendor interoperability, operational uptime, and hands-on lab deployments.
 
 ---
 
